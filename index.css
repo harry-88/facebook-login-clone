@@ -1,0 +1,52 @@
+body{
+    background-color: #f0f2f5;
+    margin: 0px;
+    padding: 0px;
+     /* font-family: 'Roboto', cursive;; */
+}
+
+main{
+    margin: 12%;
+    margin-top: 13%;
+}
+main p{
+    
+    margin-left: 5%;
+    font-size: x-large ;
+    font-weight: 500;
+}
+
+.loginForm{
+    align-items: center;
+    text-align: center;
+    margin-top: -5%;
+    width: 400px;
+    height: 300px;
+
+    box-shadow: black;
+    box-shadow:  5px 10px #888888;
+
+    width: 50;
+
+    background-color: white;
+    padding: 1%;
+    border-radius: 10px;
+}
+.loginForm *{
+    margin-top: 2%;
+}
+.form{
+    align-items: center; 
+    text-align: center;
+}
+.underline{
+    background-color: transparent;
+    
+}
+.underline:hover{
+    text-decoration: underline;
+}
+
+#createPage{
+    margin-top: 5%;
+}
